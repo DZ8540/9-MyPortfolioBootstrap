@@ -1,0 +1,192 @@
+@media screen and (min-width: 1800px) {
+	.row-1 {
+		margin-top: 15% !important;
+	}
+}
+
+@media screen and (max-width: 501px) {
+	.fab-menu {
+		font-size: 30px;
+		color: #f9a828;
+	}
+
+	.a-1:hover::before {
+		width: 0px;
+	}
+
+	.bg-i {
+		background-attachment: scroll;
+		height: 100%;
+		padding-bottom: 20px;
+	}
+
+	.span-2 {
+	    font-size: 50px;
+	    line-height: 60px; 
+	}
+
+	.span-1 {
+		font-size: 15px;
+	}
+
+	.nav-link-1 {
+	    margin-left: 0px;
+	    text-align: right;
+	}
+
+	.row-1 {
+		margin: 0;
+		padding-top: 50px;
+	}
+
+	.subscribe {
+		position: unset;
+		display: inline-block;
+	}
+
+	.span-3 {
+		font-size: 15px;
+		line-height: 40px;
+	}
+
+	.row-4 {
+		padding-top: 0px;
+		padding-bottom: 30px;
+	}
+
+	.row-3 {
+		padding-top: 40px;
+	}
+
+	.bg-1 {
+		background-attachment: scroll;
+		background-position: center;
+	}
+
+	.row-2 {
+		padding-top: 20px;
+		padding-bottom: 0;
+	}
+
+	.span-5 {
+		font-size: 18px;
+	}
+
+	.span-6 {
+		font-size: 40px;
+	}
+
+	.span-7 {
+		font-size: 15px;
+		line-height: 30px;
+	}
+
+	.span-8 {
+		font-size: 18px;
+	}
+
+	.span-9 {
+		font-size: 15px;
+	}
+
+	.icon-1 {
+		margin-bottom: 40px;
+	}
+
+	.icon-2 {
+		margin-top: 0px;
+		margin-bottom: 40px;
+	}
+
+	.bg-2 {
+		padding-top: 40px;
+	}
+
+	.span-10 {
+		font-size: 18px;
+	}
+
+	.span-11 {
+		font-size: 40px;
+	}
+
+	.span-12 {
+		font-size: 15px;
+	}
+
+	.span-17 {
+		font-size: 18px;
+	}
+
+	.span-18 {
+		font-size: 40px;
+	}
+
+	.span-19 {
+		font-size: 15px;
+	}
+
+	.bg-3 {
+		background-attachment: scroll;
+	}
+
+	.row-8 {
+		padding-top: 40px;
+	}
+
+	.input-2 {
+		width: 100%;
+		display: block;
+	}
+
+	.my-btn-1 {
+		margin-bottom: 40px;
+	}
+
+	.my-col-2 {
+		text-align: center;
+		padding-left: 15px !important;
+	}
+
+	.my-col-3 {
+		margin-top: 50px;
+		padding-right: 15px !important;
+	}
+
+	.input-3 {
+		width: auto !important;
+	}
+
+	.subscribe-double {
+		display: inline-block;
+		position: relative;
+		bottom: 0;
+		right: -260px;
+	}
+
+	.avatar {
+		margin-bottom: 20px;
+	}
+
+	.span-33 {
+		margin-right: 0 !important;
+		display: block;
+		text-align: center;
+	}
+
+	.ul-1 {
+		padding-left: 0;
+	}
+
+	.panel {
+		text-align: center;
+	}
+
+	.input-mobile {
+		margin-top: 30px;
+	}
+
+	.input-mobile-1 {
+		margin-top: 5px;
+	}
+}
